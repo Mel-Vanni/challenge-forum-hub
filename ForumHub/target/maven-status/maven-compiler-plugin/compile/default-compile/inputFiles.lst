@@ -1,0 +1,12 @@
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\controller\AuthController.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\config\SecurityConfigurations.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\model\Topico.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\model\Usuario.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\dto\TopicoDTO.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\ForumhubApplication.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\config\JWTFilter.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\repository\TopicoRepository.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\service\TokenService.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\controller\TopicoController.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\repository\UsuarioRepository.java
+C:\Users\melva\OneDrive\Desktop\ForumHub\src\main\java\com\forumhub\dto\LoginDTO.java

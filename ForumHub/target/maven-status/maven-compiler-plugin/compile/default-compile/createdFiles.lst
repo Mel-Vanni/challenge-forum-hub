@@ -1,0 +1,12 @@
+com\forumhub\controller\AuthController.class
+com\forumhub\service\TokenService.class
+com\forumhub\ForumhubApplication.class
+com\forumhub\repository\UsuarioRepository.class
+com\forumhub\config\JWTFilter.class
+com\forumhub\model\Topico.class
+com\forumhub\dto\LoginDTO.class
+com\forumhub\model\Usuario.class
+com\forumhub\config\SecurityConfigurations.class
+com\forumhub\repository\TopicoRepository.class
+com\forumhub\controller\TopicoController.class
+com\forumhub\dto\TopicoDTO.class
